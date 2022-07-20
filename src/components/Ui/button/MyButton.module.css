@@ -1,0 +1,19 @@
+.mySuccessBtn {
+    padding: 5px 15px;
+    color: #25af36;
+    font-size: 14px;
+    background: transparent;
+    border: 1px solid #25af36;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.myDangerBtn {
+    padding: 5px 15px;
+    color: red;
+    font-size: 14px;
+    background: transparent;
+    border: 1px solid red;
+    border-radius: 8px;
+    cursor: pointer;
+}
